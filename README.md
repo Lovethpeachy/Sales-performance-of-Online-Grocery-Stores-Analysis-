@@ -25,4 +25,6 @@ Sales Prediction Models: By developing machine learning models to predict future
 Customer Segmentation: Segment customers based on purchasing behavior for targeted marketing strategies.
 Dashboard Automation: Automate the dashboard to update monthly, using dynamic data sources for real-time insights.
 Deeper Regional Analysis: Analyze sales trends within each region to identify specific market demands and growth opportunities.
+
+
 #Find or download the attached files to view the dashboard, report, and complete drawn insights for the analysis attached.
